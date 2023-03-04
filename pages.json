@@ -1,5 +1,5 @@
 {
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	"pages": [ //pages数组中第一项表示应用启动页
 		{
 			"path": "pages/index/index",
 			"style": {
@@ -25,7 +25,7 @@
 		}, {
 			"path": "pages/map/map",
 			"style": {
-				"navigationBarTitleText": "宿院速办-校园导航",
+				"navigationBarTitleText": "院校园导航",
 				"enablePullDownRefresh": false
 			}
 
